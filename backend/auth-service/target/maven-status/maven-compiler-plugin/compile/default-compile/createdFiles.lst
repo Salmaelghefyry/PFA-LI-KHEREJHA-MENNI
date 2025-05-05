@@ -1,0 +1,5 @@
+com\projectmanagement\authservice\security\JwtAuthenticationFilter.class
+com\projectmanagement\authservice\security\JwtAuthorizationFilter.class
+com\projectmanagement\authservice\AuthServiceApplication.class
+com\projectmanagement\authservice\security\UserDetailsServiceImpl.class
+com\projectmanagement\authservice\config\SecurityConfig.class
